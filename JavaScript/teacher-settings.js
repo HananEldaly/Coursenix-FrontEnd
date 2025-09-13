@@ -156,6 +156,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         return true;
     }
+    
     // Function to display error message
     function displayError(inputId, message) {
         const input = document.getElementById(inputId);
